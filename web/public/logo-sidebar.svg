@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242 78" role="img" aria-labelledby="title">
+  <title id="title">DataAPS — inteligência para a Atenção Primária</title>
+  <defs><linearGradient id="violet" x1="5" y1="56" x2="17" y2="35" gradientUnits="userSpaceOnUse"><stop stop-color="#693EF0"/><stop offset="1" stop-color="#A54CF5"/></linearGradient><linearGradient id="cyan" x1="24" y1="56" x2="36" y2="23" gradientUnits="userSpaceOnUse"><stop stop-color="#1685EE"/><stop offset="1" stop-color="#30C7E8"/></linearGradient><linearGradient id="blueViolet" x1="43" y1="56" x2="55" y2="8" gradientUnits="userSpaceOnUse"><stop stop-color="#3E6BEA"/><stop offset="1" stop-color="#8550E9"/></linearGradient></defs>
+  <rect x="5" y="35" width="12" height="21" rx="6" fill="url(#violet)"/>
+  <rect x="24" y="23" width="12" height="33" rx="6" fill="url(#cyan)"/>
+  <rect x="43" y="8" width="12" height="48" rx="6" fill="url(#blueViolet)"/>
+  <text x="68" y="39" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="750" letter-spacing="-1.1">DataAPS</text>
+  <text x="69" y="57" fill="#C7D4E8" font-family="Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="650" letter-spacing="1.2">INTELIGÊNCIA PARA</text>
+  <text x="69" y="70" fill="#C7D4E8" font-family="Segoe UI,Arial,sans-serif" font-size="8.5" font-weight="650" letter-spacing="1.2">A ATENÇÃO PRIMÁRIA</text>
+</svg>

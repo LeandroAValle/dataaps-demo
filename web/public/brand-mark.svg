@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Símbolo DataAPS</title>
+  <defs>
+    <linearGradient id="violet" x1="7" y1="55" x2="19" y2="34" gradientUnits="userSpaceOnUse"><stop stop-color="#693EF0"/><stop offset="1" stop-color="#A54CF5"/></linearGradient>
+    <linearGradient id="cyan" x1="26" y1="55" x2="38" y2="22" gradientUnits="userSpaceOnUse"><stop stop-color="#1685EE"/><stop offset="1" stop-color="#30C7E8"/></linearGradient>
+    <linearGradient id="blueViolet" x1="45" y1="55" x2="57" y2="8" gradientUnits="userSpaceOnUse"><stop stop-color="#3E6BEA"/><stop offset="1" stop-color="#8550E9"/></linearGradient>
+  </defs>
+  <rect x="7" y="34" width="12" height="21" rx="6" fill="url(#violet)"/>
+  <rect x="26" y="22" width="12" height="33" rx="6" fill="url(#cyan)"/>
+  <rect x="45" y="8" width="12" height="47" rx="6" fill="url(#blueViolet)"/>
+</svg>

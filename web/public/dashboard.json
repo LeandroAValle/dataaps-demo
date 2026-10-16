@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_from": "synthetic CSV",
+  "teams": {
+    "Todas as equipes": {
+      "summary": {
+        "team": "Todas as equipes",
+        "period": "2026-09",
+        "source": "synthetic",
+        "source_status": "demo",
+        "rule_status": "illustrative",
+        "last_loaded_at": null,
+        "metrics": {
+          "people_followed": 1200,
+          "units_and_teams": 3,
+          "data_inconsistencies": 112,
+          "care_opportunities": 378,
+          "follow_up_rate": 78.1,
+          "data_quality": 90.7,
+          "follow_up_change": -1.3,
+          "trend": [
+            64.8,
+            66.5,
+            67.1,
+            67.8,
+            70.1,
+            69.4,
+            73.2,
+            72.2,
+            75.6,
+            75.8,
+            79.4,
+            78.1
+          ]
+        }
+      },
+      "opportunities": [
+        {
+          "id": "prenatal",
+          "title": "Pré-natal sem consulta recente",
+          "group": "Saúde da mulher",
+          "count": 107,
+          "reason": "Revisar histórico de acompanhamento"
+        },
+        {
+          "id": "vaccine",
+          "title": "Vacinação com registro pendente",
+          "group": "Imunização",
+          "count": 159,
+          "reason": "Revisar esquema e registro"
+        },
+        {
+          "id": "quality",
+          "title": "Cadastro com inconsistências",
+          "group": "Qualidade dos dados",
+          "count": 112,
+          "reason": "Validar campos essenciais"
+        }
+      ]
+    },
+    "Equipe Centro": {
+      "summary": {
+        "team": "Equipe Centro",
+        "period": "2026-09",
+        "source": "synthetic",
+        "source_status": "demo",
+        "rule_status": "illustrative",
+        "last_loaded_at": null,
+        "metrics": {
+          "people_followed": 400,
+          "units_and_teams": 1,
+          "data_inconsistencies": 29,
+          "care_opportunities": 114,
+          "follow_up_rate": 78.5,
+          "data_quality": 92.8,
+          "follow_up_change": 0.7,
+          "trend": [
+            62.7,
+            66.0,
+            67.0,
+            66.5,
+            71.0,
+            71.8,
+            73.5,
+            73.5,
+            76.8,
+            74.2,
+            77.8,
+            78.5
+          ]
+        }
+      },
+      "opportunities": [
+        {
+          "id": "prenatal",
+          "title": "Pré-natal sem consulta recente",
+          "group": "Saúde da mulher",
+          "count": 37,
+          "reason": "Revisar histórico de acompanhamento"
+        },
+        {
+          "id": "vaccine",
+          "title": "Vacinação com registro pendente",
+          "group": "Imunização",
+          "count": 48,
+          "reason": "Revisar esquema e registro"
+        },
+        {
+          "id": "quality",
+          "title": "Cadastro com inconsistências",
+          "group": "Qualidade dos dados",
+          "count": 29,
+          "reason": "Validar campos essenciais"
+        }
+      ]
+    },
+    "Equipe Norte": {
+      "summary": {
+        "team": "Equipe Norte",
+        "period": "2026-09",
+        "source": "synthetic",
+        "source_status": "demo",
+        "rule_status": "illustrative",
+        "last_loaded_at": null,
+        "metrics": {
+          "people_followed": 400,
+          "units_and_teams": 1,
+          "data_inconsistencies": 45,
+          "care_opportunities": 141,
+          "follow_up_rate": 78.8,
+          "data_quality": 88.8,
+          "follow_up_change": -1.2,
+          "trend": [
+            65.8,
+            66.0,
+            67.2,
+            69.5,
+            70.8,
+            65.0,
+            71.8,
+            71.8,
+            75.8,
+            73.2,
+            80.0,
+            78.8
+          ]
+        }
+      },
+      "opportunities": [
+        {
+          "id": "prenatal",
+          "title": "Pré-natal sem consulta recente",
+          "group": "Saúde da mulher",
+          "count": 35,
+          "reason": "Revisar histórico de acompanhamento"
+        },
+        {
+          "id": "vaccine",
+          "title": "Vacinação com registro pendente",
+          "group": "Imunização",
+          "count": 61,
+          "reason": "Revisar esquema e registro"
+        },
+        {
+          "id": "quality",
+          "title": "Cadastro com inconsistências",
+          "group": "Qualidade dos dados",
+          "count": 45,
+          "reason": "Validar campos essenciais"
+        }
+      ]
+    },
+    "Equipe Sul": {
+      "summary": {
+        "team": "Equipe Sul",
+        "period": "2026-09",
+        "source": "synthetic",
+        "source_status": "demo",
+        "rule_status": "illustrative",
+        "last_loaded_at": null,
+        "metrics": {
+          "people_followed": 400,
+          "units_and_teams": 1,
+          "data_inconsistencies": 38,
+          "care_opportunities": 123,
+          "follow_up_rate": 77.0,
+          "data_quality": 90.5,
+          "follow_up_change": -3.5,
+          "trend": [
+            65.8,
+            67.5,
+            67.0,
+            67.2,
+            68.5,
+            71.5,
+            74.5,
+            71.5,
+            74.2,
+            80.0,
+            80.5,
+            77.0
+          ]
+        }
+      },
+      "opportunities": [
+        {
+          "id": "prenatal",
+          "title": "Pré-natal sem consulta recente",
+          "group": "Saúde da mulher",
+          "count": 35,
+          "reason": "Revisar histórico de acompanhamento"
+        },
+        {
+          "id": "vaccine",
+          "title": "Vacinação com registro pendente",
+          "group": "Imunização",
+          "count": 50,
+          "reason": "Revisar esquema e registro"
+        },
+        {
+          "id": "quality",
+          "title": "Cadastro com inconsistências",
+          "group": "Qualidade dos dados",
+          "count": 38,
+          "reason": "Validar campos essenciais"
+        }
+      ]
+    }
+  }
+}
