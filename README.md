@@ -4,7 +4,7 @@
 
 # DataAPS Demo
 
-**Do dado sintético ao indicador: um protótipo de inteligência operacional para a Atenção Primária à Saúde.**
+**Painel para gestores e equipes da Atenção Primária acompanharem cobertura e qualidade dos registros e identificarem pontos que precisam de análise.**
 
 [![CI](https://github.com/LeandroAValle/dataaps-demo/actions/workflows/showcase.yml/badge.svg)](https://github.com/LeandroAValle/dataaps-demo/actions/workflows/showcase.yml)
 ![Python](https://img.shields.io/badge/Python-ETL-3776AB?logo=python&logoColor=white)
@@ -20,7 +20,7 @@
 
 ## O problema
 
-Equipes de Atenção Primária precisam acompanhar cobertura, qualidade dos registros e situações que merecem investigação. Um painel pode ajudar, mas um número sem origem, período e regra clara pode induzir decisões ruins. O DataAPS Demo explora uma forma de apresentar esses sinais com contexto explícito.
+Gestores e equipes de Atenção Primária precisam acompanhar cobertura, qualidade dos registros e situações que merecem investigação. O DataAPS reúne esses sinais em um panorama por equipe e período, com contexto sobre a fonte e a regra de cada indicador, para orientar a análise sem gerar conclusões automáticas.
 
 **Este é um projeto de portfólio.** Todos os registros e indicadores são fictícios. Não há conexão com e-SUS APS, PEC, sistemas municipais ou dados de pacientes. As regras são ilustrativas e não representam critérios clínicos ou indicadores oficiais.
 
